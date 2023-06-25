@@ -1,0 +1,1 @@
+This small code allows you to track changes in the characteristics of the computer over time
